@@ -1,0 +1,9 @@
+version: "3"
+services:
+  appserver:
+    container_name: chatbot
+    hostname: localhost
+    image: lidormalich/web-scraping-chatbot:001
+    ports:
+      - "8080:8080"
+    privileged: true
