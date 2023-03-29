@@ -6,7 +6,8 @@ To use the chatbot application, simply send the command `news` to initiate it. N
 
   1.  **Regex**
 2.  **Json Parsing**
-    
+    ## Swagger
+    [http://chatbot3.runmydocker-app.com/swagger-ui.html](http://chatbot3.runmydocker-app.com/swagger-ui.html)
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details
